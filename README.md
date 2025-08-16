@@ -1,2 +1,5 @@
 # Banking-Application
-The EasyBank application is a robust, secure, and user-friendly online banking system designed to manage customer accounts, transactions, and various banking services. The application offers a wide range of features including account management, transaction history, balance inquiries, fund transfers, and more.
+
+Easybank is a full-stack banking web application built with Java Servlets, JSP, HTML, MySQL integration via JDBC and for Server Apache Tomcat - It is designed to handle core banking operations such as managing customer accounts, transactions, and various banking services digitally. It enables customers to securely manage their accounts, while administrators can oversee customer data and transactions through an intuitive dashboard.
+
+This project demonstrates end-to-end web application development, including authentication, database integration, and deployment on Apache Tomcat.
